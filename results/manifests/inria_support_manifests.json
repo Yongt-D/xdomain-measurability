@@ -1,0 +1,602 @@
+{
+ "fmin0.01_K1_r0": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "chicago4_073.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K1_r1": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "kitsap26_010.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K1_r2": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "austin8_011.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K1_r3": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "vienna33_019.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K1_r4": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "chicago3_077.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K4_r0": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "tyrol-w23_001.tif",
+   "chicago2_007.tif",
+   "kitsap29_003.tif",
+   "vienna10_038.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K4_r1": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "kitsap29_015.tif",
+   "kitsap10_006.tif",
+   "kitsap3_005.tif",
+   "chicago19_028.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K4_r2": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "chicago17_003.tif",
+   "vienna2_004.tif",
+   "vienna1_066.tif",
+   "tyrol-w21_016.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K4_r3": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "vienna2_030.tif",
+   "chicago14_039.tif",
+   "kitsap10_032.tif",
+   "austin18_042.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K4_r4": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "kitsap6_068.tif",
+   "austin8_075.tif",
+   "austin22_023.tif",
+   "kitsap25_001.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K8_r0": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "chicago6_054.tif",
+   "chicago32_052.tif",
+   "kitsap29_048.tif",
+   "tyrol-w3_040.tif",
+   "kitsap18_015.tif",
+   "chicago20_057.tif",
+   "chicago11_078.tif",
+   "chicago36_007.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K8_r1": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "chicago26_048.tif",
+   "chicago32_007.tif",
+   "vienna18_065.tif",
+   "vienna25_057.tif",
+   "vienna12_023.tif",
+   "kitsap30_061.tif",
+   "chicago14_032.tif",
+   "kitsap3_066.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K8_r2": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "austin1_004.tif",
+   "chicago25_042.tif",
+   "chicago6_030.tif",
+   "chicago14_077.tif",
+   "kitsap33_002.tif",
+   "tyrol-w25_030.tif",
+   "vienna4_022.tif",
+   "kitsap26_011.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K8_r3": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "kitsap19_025.tif",
+   "tyrol-w25_020.tif",
+   "chicago32_005.tif",
+   "kitsap36_013.tif",
+   "austin11_033.tif",
+   "kitsap13_026.tif",
+   "vienna8_072.tif",
+   "chicago20_049.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.01_K8_r4": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "vienna14_017.tif",
+   "austin12_058.tif",
+   "austin26_044.tif",
+   "tyrol-w21_073.tif",
+   "vienna24_023.tif",
+   "chicago6_030.tif",
+   "chicago16_048.tif",
+   "tyrol-w17_017.tif"
+  ],
+  "n_candidates": 7501
+ },
+ "fmin0.05_K1_r0": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 0,
+  "f_min": 0.05,
+  "files": [
+   "vienna1_048.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K1_r1": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 1,
+  "f_min": 0.05,
+  "files": [
+   "vienna20_014.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K1_r2": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 2,
+  "f_min": 0.05,
+  "files": [
+   "kitsap26_079.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K1_r3": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 3,
+  "f_min": 0.05,
+  "files": [
+   "vienna3_072.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K1_r4": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 4,
+  "f_min": 0.05,
+  "files": [
+   "austin13_008.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K4_r0": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 0,
+  "f_min": 0.05,
+  "files": [
+   "chicago36_028.tif",
+   "vienna20_049.tif",
+   "austin22_046.tif",
+   "chicago4_035.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K4_r1": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 1,
+  "f_min": 0.05,
+  "files": [
+   "chicago15_050.tif",
+   "chicago11_054.tif",
+   "vienna4_077.tif",
+   "chicago7_039.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K4_r2": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 2,
+  "f_min": 0.05,
+  "files": [
+   "vienna4_065.tif",
+   "austin7_004.tif",
+   "vienna23_080.tif",
+   "kitsap3_024.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K4_r3": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 3,
+  "f_min": 0.05,
+  "files": [
+   "chicago17_079.tif",
+   "austin26_030.tif",
+   "chicago23_052.tif",
+   "vienna2_001.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K4_r4": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 4,
+  "f_min": 0.05,
+  "files": [
+   "tyrol-w30_079.tif",
+   "chicago2_022.tif",
+   "chicago34_035.tif",
+   "austin24_068.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K8_r0": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 0,
+  "f_min": 0.05,
+  "files": [
+   "chicago34_033.tif",
+   "kitsap36_038.tif",
+   "austin34_071.tif",
+   "chicago11_013.tif",
+   "chicago24_075.tif",
+   "austin7_071.tif",
+   "vienna5_043.tif",
+   "vienna33_045.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K8_r1": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 1,
+  "f_min": 0.05,
+  "files": [
+   "austin4_054.tif",
+   "kitsap18_053.tif",
+   "chicago24_028.tif",
+   "vienna4_014.tif",
+   "austin34_010.tif",
+   "vienna8_014.tif",
+   "austin24_072.tif",
+   "vienna18_008.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K8_r2": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 2,
+  "f_min": 0.05,
+  "files": [
+   "vienna9_057.tif",
+   "vienna14_015.tif",
+   "tyrol-w7_044.tif",
+   "tyrol-w21_061.tif",
+   "vienna11_065.tif",
+   "austin12_054.tif",
+   "kitsap11_062.tif",
+   "tyrol-w8_059.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K8_r3": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 3,
+  "f_min": 0.05,
+  "files": [
+   "austin12_025.tif",
+   "tyrol-w4_012.tif",
+   "tyrol-w30_020.tif",
+   "chicago11_024.tif",
+   "chicago1_019.tif",
+   "vienna21_073.tif",
+   "vienna14_010.tif",
+   "chicago34_023.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.05_K8_r4": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 4,
+  "f_min": 0.05,
+  "files": [
+   "vienna9_072.tif",
+   "tyrol-w32_057.tif",
+   "vienna8_080.tif",
+   "chicago34_077.tif",
+   "chicago35_068.tif",
+   "austin11_019.tif",
+   "austin32_036.tif",
+   "vienna3_053.tif"
+  ],
+  "n_candidates": 6245
+ },
+ "fmin0.0_K1_r0": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 0,
+  "f_min": 0.0,
+  "files": [
+   "austin19_013.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K1_r1": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 1,
+  "f_min": 0.0,
+  "files": [
+   "tyrol-w11_007.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K1_r2": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 2,
+  "f_min": 0.0,
+  "files": [
+   "tyrol-w14_033.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K1_r3": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 3,
+  "f_min": 0.0,
+  "files": [
+   "kitsap2_004.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K1_r4": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 4,
+  "f_min": 0.0,
+  "files": [
+   "austin4_020.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K4_r0": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 0,
+  "f_min": 0.0,
+  "files": [
+   "vienna4_057.tif",
+   "chicago35_050.tif",
+   "tyrol-w30_053.tif",
+   "chicago4_067.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K4_r1": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 1,
+  "f_min": 0.0,
+  "files": [
+   "vienna2_023.tif",
+   "chicago6_081.tif",
+   "chicago32_071.tif",
+   "chicago36_026.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K4_r2": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 2,
+  "f_min": 0.0,
+  "files": [
+   "tyrol-w7_067.tif",
+   "kitsap33_069.tif",
+   "kitsap30_078.tif",
+   "vienna1_041.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K4_r3": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 3,
+  "f_min": 0.0,
+  "files": [
+   "kitsap36_065.tif",
+   "chicago18_017.tif",
+   "chicago7_044.tif",
+   "kitsap33_013.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K4_r4": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 4,
+  "f_min": 0.0,
+  "files": [
+   "austin20_041.tif",
+   "chicago2_034.tif",
+   "tyrol-w12_062.tif",
+   "kitsap16_053.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K8_r0": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 0,
+  "f_min": 0.0,
+  "files": [
+   "vienna18_076.tif",
+   "vienna22_007.tif",
+   "kitsap13_033.tif",
+   "kitsap18_046.tif",
+   "tyrol-w21_045.tif",
+   "tyrol-w4_003.tif",
+   "tyrol-w14_070.tif",
+   "austin1_050.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K8_r1": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 1,
+  "f_min": 0.0,
+  "files": [
+   "tyrol-w33_060.tif",
+   "vienna14_017.tif",
+   "tyrol-w30_057.tif",
+   "chicago32_061.tif",
+   "chicago11_046.tif",
+   "tyrol-w28_057.tif",
+   "vienna8_018.tif",
+   "tyrol-w31_029.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K8_r2": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 2,
+  "f_min": 0.0,
+  "files": [
+   "austin21_005.tif",
+   "austin19_018.tif",
+   "vienna1_048.tif",
+   "kitsap2_034.tif",
+   "kitsap36_023.tif",
+   "chicago19_058.tif",
+   "vienna36_051.tif",
+   "chicago11_035.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K8_r3": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 3,
+  "f_min": 0.0,
+  "files": [
+   "vienna11_038.tif",
+   "chicago19_022.tif",
+   "chicago6_029.tif",
+   "kitsap10_062.tif",
+   "chicago31_035.tif",
+   "vienna4_060.tif",
+   "chicago10_018.tif",
+   "chicago20_032.tif"
+  ],
+  "n_candidates": 8310
+ },
+ "fmin0.0_K8_r4": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 4,
+  "f_min": 0.0,
+  "files": [
+   "tyrol-w25_034.tif",
+   "chicago3_032.tif",
+   "vienna36_075.tif",
+   "kitsap29_041.tif",
+   "tyrol-w7_010.tif",
+   "kitsap18_016.tif",
+   "chicago36_015.tif",
+   "tyrol-w34_072.tif"
+  ],
+  "n_candidates": 8310
+ }
+}

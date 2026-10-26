@@ -1,0 +1,202 @@
+{
+ "fmin0.01_K1_r0": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "50_0.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K1_r1": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "35_0.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K1_r2": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "45_3.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K1_r3": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "50_0.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K1_r4": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "10_1.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K4_r0": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "30_1.tif",
+   "15_3.tif",
+   "40_2.tif",
+   "20_2.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K4_r1": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "35_0.tif",
+   "10_3.tif",
+   "5_2.tif",
+   "25_0.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K4_r2": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "20_3.tif",
+   "15_0.tif",
+   "30_2.tif",
+   "5_3.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K4_r3": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "10_2.tif",
+   "50_3.tif",
+   "40_2.tif",
+   "30_1.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K4_r4": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "20_3.tif",
+   "30_0.tif",
+   "45_2.tif",
+   "5_1.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K8_r0": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "45_2.tif",
+   "10_3.tif",
+   "20_3.tif",
+   "40_0.tif",
+   "35_3.tif",
+   "15_1.tif",
+   "50_3.tif",
+   "5_2.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K8_r1": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "25_1.tif",
+   "30_2.tif",
+   "10_3.tif",
+   "50_0.tif",
+   "20_1.tif",
+   "45_1.tif",
+   "15_3.tif",
+   "40_1.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K8_r2": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "45_1.tif",
+   "5_1.tif",
+   "15_3.tif",
+   "40_2.tif",
+   "35_1.tif",
+   "30_1.tif",
+   "50_3.tif",
+   "20_0.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K8_r3": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "15_1.tif",
+   "20_2.tif",
+   "45_2.tif",
+   "25_0.tif",
+   "35_0.tif",
+   "10_3.tif",
+   "30_2.tif",
+   "50_3.tif"
+  ],
+  "n_candidates": 39
+ },
+ "fmin0.01_K8_r4": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "30_2.tif",
+   "25_1.tif",
+   "40_3.tif",
+   "45_2.tif",
+   "20_0.tif",
+   "5_1.tif",
+   "15_1.tif",
+   "35_2.tif"
+  ],
+  "n_candidates": 39
+ }
+}

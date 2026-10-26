@@ -1,0 +1,202 @@
+{
+ "fmin0.01_K1_r0": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "23879080_15_patch_0_512.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K1_r1": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "23578960_15_patch_0_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K1_r2": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "23879080_15_patch_0_512.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K1_r3": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "23578960_15_patch_0_512.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K1_r4": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "22828930_15_patch_0_512.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K4_r0": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "23429080_15_patch_0_512.png",
+   "22828990_15_patch_512_512.png",
+   "23579005_15_patch_512_0.png",
+   "22829050_15_patch_512_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K4_r1": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "22829050_15_patch_512_0.png",
+   "23429080_15_patch_0_512.png",
+   "23578960_15_patch_0_0.png",
+   "23729035_15_patch_512_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K4_r2": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "22829050_15_patch_512_512.png",
+   "22828990_15_patch_0_0.png",
+   "23429080_15_patch_512_0.png",
+   "23729035_15_patch_512_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K4_r3": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "22828930_15_patch_512_0.png",
+   "23879080_15_patch_512_512.png",
+   "23429080_15_patch_512_0.png",
+   "24179065_15_patch_0_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K4_r4": {
+  "K": 4,
+  "distinct_tiles": 4,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "22829050_15_patch_512_512.png",
+   "23429080_15_patch_0_0.png",
+   "23729035_15_patch_512_0.png",
+   "24179065_15_patch_0_512.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K8_r0": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "23729035_15_patch_512_512.png",
+   "22828930_15_patch_512_512.png",
+   "22829050_15_patch_512_512.png",
+   "23579005_15_patch_0_0.png",
+   "23578960_15_patch_512_512.png",
+   "22828990_15_patch_0_512.png",
+   "24179065_15_patch_0_0.png",
+   "23429080_15_patch_0_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K8_r1": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "22829050_15_patch_0_512.png",
+   "23579005_15_patch_0_512.png",
+   "23879080_15_patch_512_0.png",
+   "22828930_15_patch_0_0.png",
+   "22828990_15_patch_512_512.png",
+   "23429020_15_patch_512_512.png",
+   "23429080_15_patch_512_0.png",
+   "23578960_15_patch_512_512.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K8_r2": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "23729035_15_patch_512_0.png",
+   "24179065_15_patch_0_0.png",
+   "22828990_15_patch_512_512.png",
+   "23579005_15_patch_512_0.png",
+   "23578960_15_patch_0_512.png",
+   "23429080_15_patch_0_512.png",
+   "23879080_15_patch_512_512.png",
+   "22829050_15_patch_0_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K8_r3": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "23729035_15_patch_512_0.png",
+   "22828990_15_patch_0_512.png",
+   "23429080_15_patch_512_512.png",
+   "22828930_15_patch_512_512.png",
+   "22829050_15_patch_512_0.png",
+   "23578960_15_patch_0_0.png",
+   "23879080_15_patch_512_0.png",
+   "23429020_15_patch_0_0.png"
+  ],
+  "n_candidates": 38
+ },
+ "fmin0.01_K8_r4": {
+  "K": 8,
+  "distinct_tiles": 8,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "23429080_15_patch_512_0.png",
+   "23429020_15_patch_0_512.png",
+   "23579005_15_patch_512_512.png",
+   "23729035_15_patch_512_0.png",
+   "22829050_15_patch_0_0.png",
+   "24179065_15_patch_0_512.png",
+   "22828990_15_patch_0_512.png",
+   "23578960_15_patch_512_0.png"
+  ],
+  "n_candidates": 38
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "fmin0.01_K1_r0": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "1_5986.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K1_r1": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "1_7690.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K1_r2": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "1_1740.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K1_r3": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "2_182.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K1_r4": {
+  "K": 1,
+  "distinct_tiles": 1,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "2_3223.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K4_r0": {
+  "K": 4,
+  "distinct_tiles": 2,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "2_2576.tif",
+   "1_163.tif",
+   "2_2561.tif",
+   "2_515.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K4_r1": {
+  "K": 4,
+  "distinct_tiles": 2,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "1_4612.tif",
+   "2_3561.tif",
+   "1_3438.tif",
+   "1_6740.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K4_r2": {
+  "K": 4,
+  "distinct_tiles": 2,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "1_4342.tif",
+   "2_226.tif",
+   "1_4027.tif",
+   "2_3422.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K4_r3": {
+  "K": 4,
+  "distinct_tiles": 2,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "1_1083.tif",
+   "2_1031.tif",
+   "1_1675.tif",
+   "1_3998.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K4_r4": {
+  "K": 4,
+  "distinct_tiles": 2,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "1_3203.tif",
+   "2_384.tif",
+   "1_400.tif",
+   "2_2204.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K8_r0": {
+  "K": 8,
+  "distinct_tiles": 2,
+  "draw": 0,
+  "f_min": 0.01,
+  "files": [
+   "2_2690.tif",
+   "1_5922.tif",
+   "2_2892.tif",
+   "2_1291.tif",
+   "1_8114.tif",
+   "1_2146.tif",
+   "1_6774.tif",
+   "1_1754.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K8_r1": {
+  "K": 8,
+  "distinct_tiles": 2,
+  "draw": 1,
+  "f_min": 0.01,
+  "files": [
+   "2_2870.tif",
+   "1_3955.tif",
+   "2_1240.tif",
+   "2_1620.tif",
+   "2_3141.tif",
+   "2_1463.tif",
+   "1_3841.tif",
+   "2_1144.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K8_r2": {
+  "K": 8,
+  "distinct_tiles": 2,
+  "draw": 2,
+  "f_min": 0.01,
+  "files": [
+   "1_3643.tif",
+   "2_1153.tif",
+   "1_6491.tif",
+   "2_1393.tif",
+   "2_1176.tif",
+   "1_6734.tif",
+   "2_95.tif",
+   "2_3516.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K8_r3": {
+  "K": 8,
+  "distinct_tiles": 2,
+  "draw": 3,
+  "f_min": 0.01,
+  "files": [
+   "2_1284.tif",
+   "1_6354.tif",
+   "2_1435.tif",
+   "1_1221.tif",
+   "1_345.tif",
+   "1_3596.tif",
+   "2_895.tif",
+   "1_901.tif"
+  ],
+  "n_candidates": 2194
+ },
+ "fmin0.01_K8_r4": {
+  "K": 8,
+  "distinct_tiles": 2,
+  "draw": 4,
+  "f_min": 0.01,
+  "files": [
+   "1_3841.tif",
+   "2_1036.tif",
+   "1_2571.tif",
+   "1_6738.tif",
+   "1_2112.tif",
+   "2_2072.tif",
+   "1_6527.tif",
+   "2_2772.tif"
+  ],
+  "n_candidates": 2194
+ }
+}
