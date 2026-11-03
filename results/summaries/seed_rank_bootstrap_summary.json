@@ -1,0 +1,40 @@
+{
+ "note": "Spearman rank correlation of per-seed IoU (K=4, source-frozen threshold) between Inria (f=1 view, draw r0) and Massachusetts (C averaged over five draws); percentile bootstrap over seeds, 10 000 replicates; descriptive",
+ "pairs": {
+  "GAPL_A": {
+   "rho": 0.0979020979020979,
+   "ci95": [
+    -0.6496441605839417,
+    0.7499999999999999
+   ]
+  },
+  "GAPL_B": {
+   "rho": 0.10489510489510491,
+   "ci95": [
+    -0.6299067770385269,
+    0.7625899280575541
+   ]
+  },
+  "GAPL_C": {
+   "rho": -0.18181818181818185,
+   "ci95": [
+    -0.8428711235383834,
+    0.5179856115107915
+   ]
+  },
+  "deeplabv3_r50": {
+   "rho": 0.3216783216783217,
+   "ci95": [
+    -0.3546156485929994,
+    0.8409152445027898
+   ]
+  },
+  "segformer_b1": {
+   "rho": 0.11188811188811189,
+   "ci95": [
+    -0.568185905820798,
+    0.7018451910408429
+   ]
+  }
+ }
+}
